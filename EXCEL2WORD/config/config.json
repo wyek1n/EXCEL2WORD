@@ -1,0 +1,13 @@
+{
+    "word_template": "/Users/wyek1n/Desktop/扩心病合同/CODE_V2/CODE.docx",
+    "output_dir": "/Users/wyek1n/Desktop/扩心病合同/CODE_V2/Output",
+    "replace_items": [
+        "▇受托方（乙方）▇",
+        "▇项目负责人▇",
+        "▇通讯地址▇",
+        "▇联系电话▇",
+        "▇试验观察费每例▇"
+    ],
+    "output_format": "科研合作协议书-芪参颗粒3号方项目（▇受托方（乙方）▇）",
+    "excel_path": "/Users/wyek1n/Desktop/扩心病合同/CODE_V2/Output/template.xlsx"
+}
